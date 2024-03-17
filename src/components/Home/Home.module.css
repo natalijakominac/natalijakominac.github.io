@@ -1,0 +1,22 @@
+.home {
+  width: 90%;
+  max-width: 40rem;
+  padding: 3rem;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.emphasized {
+  color: #008080;
+  font-weight: bolder;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #008080;
+}
+
+.nav a:hover,
+.nav a:active {
+  color: #81cdc6;
+}
